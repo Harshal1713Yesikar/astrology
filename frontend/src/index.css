@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    background-color: #030712;
+    color: #F8FAFC;
+    overflow-x: hidden;
+  }
+
+  /* Custom celestial scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #070D1E;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2E1065;
+    border-radius: 4px;
+    border: 1px solid rgba(245, 158, 11, 0.3);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #F59E0B;
+  }
+}
+
+@layer components {
+  .gold-gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-amber-200 via-amber-400 to-amber-600;
+  }
+
+  .gold-gradient-subtle {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-amber-100 via-amber-300 to-amber-500;
+  }
+
+  .silver-gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-slate-100 via-slate-300 to-slate-400;
+  }
+
+  .glass-panel {
+    @apply bg-slate-900/60 backdrop-blur-md border border-amber-500/20 shadow-xl;
+  }
+
+  .glass-panel-hover {
+    @apply transition-all duration-300 hover:border-amber-400/50 hover:shadow-gold-glow hover:-translate-y-1;
+  }
+
+  .btn-gold {
+    @apply relative inline-flex items-center justify-center px-6 py-3 font-semibold text-cosmic-darkest transition-all duration-300 rounded-full bg-gradient-to-r from-amber-300 via-amber-400 to-amber-500 shadow-md hover:shadow-gold-glow hover:scale-105 active:scale-95 disabled:opacity-50 disabled:pointer-events-none;
+  }
+
+  .btn-outline-gold {
+    @apply relative inline-flex items-center justify-center px-6 py-3 font-medium text-amber-300 transition-all duration-300 rounded-full border border-amber-500/50 bg-amber-500/10 hover:bg-amber-500/20 hover:border-amber-400 hover:text-amber-200 hover:shadow-gold-glow active:scale-95;
+  }
+
+  .btn-purple {
+    @apply relative inline-flex items-center justify-center px-6 py-3 font-medium text-white transition-all duration-300 rounded-full bg-gradient-to-r from-purple-800 to-indigo-900 border border-purple-500/30 hover:border-purple-400 hover:shadow-purple-glow hover:scale-105 active:scale-95;
+  }
+}
+
+/* Cosmic background canvas and stars */
+.stars-layer-1 {
+  background-image: 
+    radial-gradient(1px 1px at 25px 30px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 150px 75px, #FDE68A, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 280px 190px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 350px 320px, #FBBF24, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 500px 420px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 700px 150px, #FDE68A, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 850px 380px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 980px 220px, #F59E0B, rgba(0,0,0,0));
+  background-size: 1050px 550px;
+}
+
+.stars-layer-2 {
+  background-image: 
+    radial-gradient(1px 1px at 75px 120px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 220px 280px, #E0E7FF, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 410px 80px, #FDE68A, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 620px 360px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 810px 90px, #FBBF24, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 940px 470px, #C084FC, rgba(0,0,0,0));
+  background-size: 1200px 650px;
+}
+
+/* Subtle glow orb */
+.cosmic-orb {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(80px);
+  pointer-events: none;
+  opacity: 0.25;
+}
