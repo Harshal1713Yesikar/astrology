@@ -41,7 +41,7 @@ const ServicesPage = () => {
           {servicesData.map((service, index) => {
             const Icon = service.icon;
             const isEven = index % 2 === 1;
-            const whatsappMsg = `Hello Nitika Mehra ji, I would like to enquire about your ${service.title} service at Astronit.`;
+            const whatsappMsg = `Hello Nitika Mehara ji, I would like to enquire about your ${service.title} service at Astronit.`;
 
             return (
               <div
@@ -61,7 +61,7 @@ const ServicesPage = () => {
                     alt={service.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 filter brightness-95"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/30 to-transparent" />
+                  <div className="absolute inset-0 bg-gradient-to-t  from-slate-950 via-slate-950/30 to-transparent" />
 
                   <div className="absolute top-4 left-4 w-12 h-12 rounded-2xl bg-slate-900/90 border border-amber-500/40 backdrop-blur-md flex items-center justify-center text-amber-400 shadow-lg">
                     <Icon className="w-6 h-6" />

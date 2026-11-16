@@ -27,7 +27,7 @@ const PrivacyPolicyPage = () => {
               <span>1. Commitment to Privacy</span>
             </h2>
             <p>
-              At <strong>ASTRONIT</strong>, led by Nitika Mehra (Musakhedi, Indore), we hold the sacred
+              At <strong>ASTRONIT</strong>, led by Nitika Mehara (Musakhedi, Indore), we hold the sacred
               privacy of our clients in the highest regard. We understand that your birth chart (Kundali),
               personal life challenges, family questions, and residential floor plans are deeply personal.
             </p>
@@ -54,7 +54,7 @@ const PrivacyPolicyPage = () => {
             </h2>
             <p>
               Your birth and contact details are used strictly for astrological chart generation,
-              Vastu analysis, appointment scheduling, and communication directly from Nitika Mehra.
+              Vastu analysis, appointment scheduling, and communication directly from Nitika Mehara.
               We <strong>never sell, lease, or distribute</strong> your personal information to third-party
               marketing companies.
             </p>
@@ -67,7 +67,7 @@ const PrivacyPolicyPage = () => {
             </h2>
             <p>
               All digital communications and appointment submissions are stored securely. Discussions
-              during private sessions remain 100% confidential between you and Nitika Mehra.
+              during private sessions remain 100% confidential between you and Nitika Mehara.
             </p>
           </section>
 
@@ -79,7 +79,7 @@ const PrivacyPolicyPage = () => {
             </p>
             <div className="p-4 rounded-xl bg-slate-900 border border-slate-800 text-xs space-y-1 text-slate-300">
               <p><strong>ASTRONIT – Astrology & Spiritual Guidance</strong></p>
-              <p>Consultant: Nitika Mehra</p>
+              <p>Consultant: Nitika Mehara</p>
               <p>Address: 32, New Abhishek Nagar, Musakhedi, Indore, MP – 452001</p>
               <p>Contact: +91 8959235176 / +91 7869608159</p>
               <p>Email: contact@astronit.com</p>

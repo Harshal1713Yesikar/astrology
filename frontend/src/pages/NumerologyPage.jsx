@@ -26,7 +26,7 @@ const NumerologyPage = () => {
         expression of cosmic energy.
       </p>
       <p>
-        Nitika Mehra integrates Chaldean and Pythagorean numerological systems to examine the alignment
+        Nitika Mehara integrates Chaldean and Pythagorean numerological systems to examine the alignment
         between your Psychic Number (Mulank), Destiny Number (Bhagyank), and Name Number (Namank).
         Minor strategic spelling enhancements can dissolve resistance and invite momentum into your endeavors.
       </p>
@@ -40,7 +40,7 @@ const NumerologyPage = () => {
       tagline="Harmonize your name, mobile, and business brand with powerful numerological frequencies."
       icon={Binary}
       image="https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=1200&q=80"
-      description="Unlock the cosmic code of numbers. Nitika Mehra helps you analyze and calibrate names, phone numbers, and brand identities with your birth vibrations for maximum growth."
+      description="Unlock the cosmic code of numbers. Nitika Mehara helps you analyze and calibrate names, phone numbers, and brand identities with your birth vibrations for maximum growth."
       detailedContent={detailedContent}
       offerings={offerings}
       benefits={benefits}

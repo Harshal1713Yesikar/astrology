@@ -153,7 +153,7 @@ const Navbar = () => {
 
               {/* Dropdown Menu */}
               {servicesDropdown && (
-                <div className="absolute top-full left-1/2 -translate-x-1/2 w-80 pt-3 z-50">
+                <div className="absolute top-full left-1/2 -translate-x-1/2 w-80 pt-3 bg-slate-600 z-50 ">
                   <div className="bg-slate-900/98 backdrop-blur-xl border border-amber-500/30 rounded-2xl shadow-2xl p-2.5 space-y-1">
                     <div className="px-3 py-1.5 text-[11px] font-semibold uppercase tracking-wider text-amber-400/80 border-b border-amber-500/10">
                       Our Specialized Consultations
@@ -180,7 +180,6 @@ const Navbar = () => {
                         to="/services"
                         className="block text-center text-xs font-semibold text-amber-400 hover:text-amber-300 py-1.5 rounded-lg hover:bg-amber-500/10 transition-colors"
                       >
-                        Explore All 6 Services →
                       </Link>
                     </div>
                   </div>

@@ -28,7 +28,7 @@ const AstrologyPage = () => {
         the planetary coordinates at the precise second of your arrival into this world.
       </p>
       <p>
-        Nitika Mehra conducts an exhaustive multi-layered analysis of your lagna (ascendant),
+        Nitika Mehara conducts an exhaustive multi-layered analysis of your lagna (ascendant),
         moon sign, Navamsha (D9) chart, and planetary strengths (Shadbala). Instead of generating
         fear, our consultations provide rational, compassionate clarity, illuminating both opportunities
         and timing considerations.
@@ -43,7 +43,7 @@ const AstrologyPage = () => {
       tagline="Vedic Kundali analysis, planetary transit influences, and personalized astrological roadmap."
       icon={Sun}
       image="https://images.unsplash.com/photo-1532968961962-8a0cb3a2d4f5?auto=format&fit=crop&w=1200&q=80"
-      description="Understand the celestial forces governing your timeline. Nitika Mehra provides deep birth chart analysis, planetary dasha evaluations, and practical remedial guidance for career, relationships, and life progression."
+      description="Understand the celestial forces governing your timeline. Nitika Mehara provides deep birth chart analysis, planetary dasha evaluations, and practical remedial guidance for career, relationships, and life progression."
       detailedContent={detailedContent}
       offerings={offerings}
       benefits={benefits}

@@ -48,7 +48,7 @@ const ServiceDetailLayout = ({
         <div className="relative rounded-3xl glass-panel border border-amber-500/30 overflow-hidden mb-12 shadow-2xl">
           <div className="relative h-64 sm:h-80 md:h-96 w-full">
             <img src={image} alt={title} className="w-full h-full object-cover filter brightness-90" />
-            <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/60 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t  from-slate-950 via-slate-950/60 to-transparent" />
 
             <div className="absolute bottom-6 left-6 right-6 sm:bottom-10 sm:left-10 sm:right-10 max-w-3xl">
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-amber-400/50 bg-amber-400/20 text-amber-300 text-xs font-semibold uppercase tracking-wider mb-3 backdrop-blur-md">

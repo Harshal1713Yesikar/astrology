@@ -26,7 +26,7 @@ const GemstonesPage = () => {
         that resonate with planetary electro-magnetic waves.
       </p>
       <p>
-        Wearing the wrong stone can cause energetic friction. Nitika Mehra strictly analyzes the
+        Wearing the wrong stone can cause energetic friction. Nitika Mehara strictly analyzes the
         ascendant lord, 5th lord, 9th lord, and current Dasha before recommending authentic, natural,
         and unheated gemstones without commercial bias.
       </p>
@@ -40,7 +40,7 @@ const GemstonesPage = () => {
       tagline="Strict Kundali-based astrological gemstone recommendations and traditional wearing rituals."
       icon={Gem}
       image="https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1200&q=80"
-      description="Harness planetary rays safely. Nitika Mehra evaluates your horoscope to prescribe authentic gemstones, auspicious metals, wearing fingers, and Vedic consecration practices."
+      description="Harness planetary rays safely. Nitika Mehara evaluates your horoscope to prescribe authentic gemstones, auspicious metals, wearing fingers, and Vedic consecration practices."
       detailedContent={detailedContent}
       offerings={offerings}
       benefits={benefits}

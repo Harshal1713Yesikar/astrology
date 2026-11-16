@@ -76,7 +76,7 @@ const AdminLayout = () => {
                 ASTRO<span className="gold-gradient-text">NIT</span>
               </h2>
               <p className="text-[10px] text-amber-300 font-semibold uppercase tracking-wider">
-                Nitika Mehra Portal
+                Nitika Mehara Portal
               </p>
             </div>
           </div>

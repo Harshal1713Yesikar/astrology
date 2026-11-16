@@ -26,7 +26,7 @@ const SpiritualRemediesPage = () => {
         spiritual resilience and neutralize karmic friction through conscious devotional action.
       </p>
       <p>
-        Nitika Mehra prescribes time-tested traditional practices: planetary mantra japa, grain donations,
+        Nitika Mehara prescribes time-tested traditional practices: planetary mantra japa, grain donations,
         sacred Rudraksha combinations, pure camphor space purifications, and the energization of Dhan Lakshmi
         prosperity potlis for shops, factories, and homes.
       </p>
@@ -40,7 +40,7 @@ const SpiritualRemediesPage = () => {
       tagline="Traditional Vedic remedies, sacred Rudraksha, pure camphor, and prosperity potlis."
       icon={Flame}
       image="https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=1200&q=80"
-      description="Cleanse obstacles and welcome abundance. Nitika Mehra provides authentic Vedic planetary remedies, energized Rudraksha guidance, and Dhan Lakshmi business growth potlis."
+      description="Cleanse obstacles and welcome abundance. Nitika Mehara provides authentic Vedic planetary remedies, energized Rudraksha guidance, and Dhan Lakshmi business growth potlis."
       detailedContent={detailedContent}
       offerings={offerings}
       benefits={benefits}

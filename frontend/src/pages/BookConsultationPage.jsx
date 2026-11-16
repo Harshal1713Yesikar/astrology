@@ -27,7 +27,7 @@ const BookConsultationPage = () => {
             Book Your <span className="gold-gradient-text">Consultation</span>
           </h1>
           <p className="text-slate-300 text-base sm:text-lg font-light leading-relaxed">
-            Reserve your private session with <strong>Nitika Mehra</strong>. Whether you need
+            Reserve your private session with <strong>Nitika Mehara</strong>. Whether you need
             Kundali analysis, residential Vastu, numerology, or spiritual remedies, we ensure
             thorough, confidential guidance.
           </p>

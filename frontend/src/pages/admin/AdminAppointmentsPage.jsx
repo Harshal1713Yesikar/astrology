@@ -223,7 +223,7 @@ const AdminAppointmentsPage = () => {
                       </a>
                       <a
                         href={`https://wa.me/91${app.mobileNumber.replace(/[^0-9]/g, '')}?text=${encodeURIComponent(
-                          `Hello ${app.fullName}, regarding your appointment (${app.appointmentId}) for ${app.service} with Nitika Mehra at Astronit:`
+                          `Hello ${app.fullName}, regarding your appointment (${app.appointmentId}) for ${app.service} with Nitika Mehara at Astronit:`
                         )}`}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -410,7 +410,7 @@ const AdminAppointmentsPage = () => {
                   /[^0-9]/g,
                   ''
                 )}?text=${encodeURIComponent(
-                  `Hello ${selectedAppointment.fullName}, your consultation (${selectedAppointment.appointmentId}) with Nitika Mehra at Astronit is ${selectedAppointment.status}. Slot: ${selectedAppointment.preferredTime}.`
+                  `Hello ${selectedAppointment.fullName}, your consultation (${selectedAppointment.appointmentId}) with Nitika Mehara at Astronit is ${selectedAppointment.status}. Slot: ${selectedAppointment.preferredTime}.`
                 )}`}
                 target="_blank"
                 rel="noopener noreferrer"

@@ -80,7 +80,7 @@ export const servicesData = [
     title: 'Crystal Healing & Guidance',
     slug: 'crystal-healing',
     icon: Sparkles,
-    image: 'https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=800&q=80',
+    image: 'https://png.pngtree.com/thumb_back/fw800/background/20251130/pngtree-mystical-zodiac-wheel-with-astrological-signs-overlaid-on-a-deep-space-image_20630452.webp',
     description:
       'Natural Earth crystals to dissolve stagnant energy, shield against negativity, and attract wealth, serenity, and mental focus.',
     highlights: [
@@ -134,7 +134,7 @@ const ServicesOverview = () => {
                     alt={service.title}
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent" />
+                  <div className=" absolute inset-0 bg-gradient-to-t  from-slate-950 via-slate-950/40 to-transparent " />
 
                   {/* Icon Badge */}
                   <div className="absolute top-4 right-4 w-11 h-11 rounded-2xl bg-slate-900/90 border border-amber-500/40 backdrop-blur-md flex items-center justify-center text-amber-400 shadow-md">

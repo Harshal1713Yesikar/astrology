@@ -27,7 +27,7 @@ const VastuPage = () => {
         dwellings with the five universal elements (Pancha Mahabhuta: Earth, Water, Fire, Air, and Space).
       </p>
       <p>
-        Nitika Mehra specializes in non-demolition Vastu remedies. Through elemental balancing,
+        Nitika Mehara specializes in non-demolition Vastu remedies. Through elemental balancing,
         direction adjustments, brass energy strips, sacred geometric yantras, and color therapies,
         we transform stagnant spaces into vibrant sanctuaries of abundance, health, and peace.
       </p>
@@ -41,7 +41,7 @@ const VastuPage = () => {
       tagline="Harmonize your living and workspaces for prosperity, health, and positive energetic flow."
       icon={Compass}
       image="/images/nitika-mehra-vastu-site.jpg"
-      description="Create architectural and energetic harmony in your premises. Nitika Mehra offers comprehensive on-site and blueprint Vastu assessments with practical, non-demolition remedies."
+      description="Create architectural and energetic harmony in your premises. Nitika Mehara offers comprehensive on-site and blueprint Vastu assessments with practical, non-demolition remedies."
       detailedContent={detailedContent}
       offerings={offerings}
       benefits={benefits}

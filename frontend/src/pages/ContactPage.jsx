@@ -67,7 +67,7 @@ const ContactPage = () => {
             Contact <span className="gold-gradient-text">Astronit</span>
           </h1>
           <p className="text-slate-300 text-base sm:text-lg font-light leading-relaxed">
-            Have questions regarding your Kundali, office Vastu, or spiritual remedies? Nitika Mehra
+            Have questions regarding your Kundali, office Vastu, or spiritual remedies? Nitika Mehara
             and our team are here to guide you.
           </p>
         </div>
@@ -82,7 +82,7 @@ const ContactPage = () => {
                   ASTRONIT – Astrology & Spiritual Guidance
                 </span>
                 <h2 className="font-serif text-2xl font-bold text-white mt-1">
-                  Nitika Mehra
+                  Nitika Mehara
                 </h2>
                 <p className="text-xs text-amber-300 font-medium">Astrologer and Vastu Expert</p>
               </div>
@@ -185,7 +185,7 @@ const ContactPage = () => {
             <div className="rounded-3xl glass-panel border border-amber-500/30 p-6 sm:p-8 md:p-10 shadow-2xl relative">
               <h2 className="font-serif text-2xl font-bold text-white mb-2">Send an Enquiry</h2>
               <p className="text-xs sm:text-sm text-slate-300 font-light mb-6">
-                Fill in your enquiry details below. Nitika Mehra will personally review your message
+                Fill in your enquiry details below. Nitika Mehara will personally review your message
                 and respond during consultation hours.
               </p>
 
@@ -198,7 +198,7 @@ const ContactPage = () => {
                     Message Sent Successfully!
                   </h3>
                   <p className="text-sm text-slate-300 font-light max-w-md mx-auto">
-                    Thank you for reaching out to Astronit. Nitika Mehra will review your message
+                    Thank you for reaching out to Astronit. Nitika Mehara will review your message
                     and get back to you shortly.
                   </p>
                   <button

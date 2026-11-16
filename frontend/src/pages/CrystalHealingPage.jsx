@@ -25,7 +25,7 @@ const CrystalHealingPage = () => {
         subterranean pressure. They vibrate at remarkably stable energetic frequencies.
       </p>
       <p>
-        Nitika Mehra helps you select, cleanse, charge, and position natural crystals in your home,
+        Nitika Mehara helps you select, cleanse, charge, and position natural crystals in your home,
         office desk, cash locker, or personal aura. Whether you seek emotional healing, financial breakthrough,
         or grounded peacefulness, our customized crystal protocols support your daily wellness.
       </p>
@@ -39,7 +39,7 @@ const CrystalHealingPage = () => {
       tagline="Harness natural mineral vibrations for chakra alignment, protection, and prosperity."
       icon={Sparkles}
       image="https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=80"
-      description="Elevate your energetic space with sacred crystals. Nitika Mehra guides you in choosing, purifying, and positioning authentic crystals for wealth, mental peace, and protection."
+      description="Elevate your energetic space with sacred crystals. Nitika Mehara guides you in choosing, purifying, and positioning authentic crystals for wealth, mental peace, and protection."
       detailedContent={detailedContent}
       offerings={offerings}
       benefits={benefits}

@@ -31,7 +31,7 @@ const AboutPreview = () => {
                     alt="Nitika Mehra - Astrologer & Vastu Consultant"
                     className="w-full h-full object-cover object-top filter brightness-95 contrast-105"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent" />
+                  <div className=" absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent" />
 
                   {/* Consultant Badge Overlay */}
                   <div className="absolute bottom-4 left-4 right-4 p-4 rounded-xl bg-slate-900/90 border border-amber-500/30 backdrop-blur-md">

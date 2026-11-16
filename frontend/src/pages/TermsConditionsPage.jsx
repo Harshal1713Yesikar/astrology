@@ -54,7 +54,7 @@ const TermsConditionsPage = () => {
             <p>
               Consultations are conducted Monday to Saturday between 3:00 PM and 8:00 PM (IST). Online
               appointment requests through this website are placed in <strong>Pending</strong> status
-              until confirmed by Nitika Mehra or our office. We reserve the right to reschedule in the
+              until confirmed by Nitika Mehara or our office. We reserve the right to reschedule in the
               event of unforeseen emergencies.
             </p>
           </section>
@@ -66,7 +66,7 @@ const TermsConditionsPage = () => {
             </h2>
             <p>
               All remedies suggested—including Vedic mantras, spiritual lifestyle routines, gemstone
-              wearings, crystal placements, or Vastu modifications—are completely voluntary. Nitika Mehra
+              wearings, crystal placements, or Vastu modifications—are completely voluntary. Nitika Mehara
               does not compel or guarantee supernatural outcomes.
             </p>
           </section>

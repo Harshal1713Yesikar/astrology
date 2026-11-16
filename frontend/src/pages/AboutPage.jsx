@@ -48,7 +48,7 @@ const AboutPage = () => {
                 <div className="relative h-96 w-full rounded-2xl overflow-hidden mb-6 bg-slate-900 border border-amber-500/20">
                   <img
                     src="/images/nitika-mehra-astrologer.jpg"
-                    alt="Nitika Mehra - Astrology & Vastu Consultant"
+                    alt="Nitika Mehara - Astrology & Vastu Consultant"
                     className="w-full h-full object-cover object-top filter brightness-95"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent" />
@@ -216,7 +216,7 @@ const AboutPage = () => {
               className="btn-gold px-8 py-3.5 text-sm font-bold inline-flex items-center gap-2"
             >
               <Calendar className="w-4 h-4" />
-              <span>Schedule a Personal Session with Nitika Mehra</span>
+              <span>Schedule a Personal Session with Nitika Mehara</span>
             </Link>
           </div>
         </div>
@@ -226,7 +226,7 @@ const AboutPage = () => {
           <SectionHeading
             badge="Verified Credentials"
             title="Academic Qualifications & Certifications"
-            subtitle="Nitika Mehra holds nationally accredited post-graduation diplomas awarded with Grade A++ – a testament to her dedication and mastery across Vedic disciplines."
+            subtitle="Nitika Mehara holds nationally accredited post-graduation diplomas awarded with Grade A++ – a testament to her dedication and mastery across Vedic disciplines."
           />
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
