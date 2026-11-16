@@ -69,7 +69,6 @@ app.use('/api/testimonials', testimonialRoutes);
 app.use('/api/faqs', faqRoutes);
 app.use('/api/settings', settingsRoutes);
 
-// Catch-all 404 for unknown api routes
 app.all('/api/*', (req, res) => {
   res.status(404).json({
     success: false,
@@ -82,7 +81,7 @@ app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
 
-// Connect to Database and start server
+
 const startServer = async () => {
   try {
     await connectDB("mongodb+srv://harshal1713yesikar_db_user:VilcJfZXg37Akr0i@cluster0.ssmcngp.mongodb.net/astronit?retryWrites=true&w=majority");
