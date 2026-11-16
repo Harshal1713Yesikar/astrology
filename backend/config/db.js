@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
-  const uri = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/astronit';
+  const uri = process.env.MONGODB_URI ||'mongodb+srv://harshal1713yesikar_db_user:VilcJfZXg37Akr0i@cluster0.ssmcngp.mongodb.net/astronit?retryWrites=true&w=majority';
 
   try {
     const conn = await mongoose.connect(uri, {

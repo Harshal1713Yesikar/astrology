@@ -85,7 +85,7 @@ const PORT = process.env.PORT || 5000;
 // Connect to Database and start server
 const startServer = async () => {
   try {
-    await connectDB("mongodb+srv://harshal1713yesikar:G0E1u36keaRUCwDP@traval-web.q3ifuj9.mongodb.net");
+    await connectDB("mongodb+srv://harshal1713yesikar_db_user:VilcJfZXg37Akr0i@cluster0.ssmcngp.mongodb.net/astronit?retryWrites=true&w=majority");
  
     await seedDatabase();
 
