@@ -24,7 +24,7 @@ const SectionHeading = ({
         </div>
       )}
 
-      <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-white tracking-tight leading-tight max-w-4xl">
+      <h2 className="text-2xl sm:text-3xl md:text-4xl  lg:text-5xl font-serif font-bold text-white tracking-tight leading-tight max-w-4xl">
         <span className="gold-gradient-text">{title}</span>
       </h2>
 

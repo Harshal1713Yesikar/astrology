@@ -128,7 +128,7 @@ const ServicesOverview = () => {
                 className="group relative flex flex-col rounded-3xl glass-panel overflow-hidden border border-amber-500/20 hover:border-amber-400/50 hover:shadow-gold-glow transition-all duration-300 hover:-translate-y-1.5"
               >
                 {/* Image Banner */}
-                <div className="relative h-48 w-full overflow-hidden bg-slate-900">
+                <div className="relative h-96 w-full overflow-hidden bg-slate-900">
                   <img
                     src={service.image}
                     alt={service.title}
