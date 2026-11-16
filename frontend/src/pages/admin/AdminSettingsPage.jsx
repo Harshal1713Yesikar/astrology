@@ -21,7 +21,7 @@ const AdminSettingsPage = () => {
   const [settings, setSettings] = useState({
     brandName: 'ASTRONIT',
     tagline: 'Astrology & Spiritual Guidance',
-    consultantName: 'Nitika Mehra',
+    consultantName: 'Nitika Mehara',
     profession: 'Astrologer and Vastu Expert',
     address: '32, New Abhishek Nagar, Musakhedi, Indore, Madhya Pradesh – 452001, India',
     primaryPhone: '8959235176',
@@ -109,7 +109,7 @@ const AdminSettingsPage = () => {
           Website <span className="gold-gradient-text">Settings</span>
         </h1>
         <p className="text-xs sm:text-sm text-slate-400">
-          Update Nitika Mehra's consultation timings, contact phone numbers, Indore address, and credentials.
+          Update Nitika Mehara's consultation timings, contact phone numbers, Indore address, and credentials.
         </p>
       </div>
 

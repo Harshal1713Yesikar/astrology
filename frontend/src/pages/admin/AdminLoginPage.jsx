@@ -62,7 +62,7 @@ const AdminLoginPage = () => {
             ASTRONIT <span className="gold-gradient-text">Admin</span>
           </h1>
           <p className="text-xs sm:text-sm text-slate-400">
-            Consultant Portal for Nitika Mehra (Musakhedi, Indore)
+            Consultant Portal for Nitika Mehara (Musakhedi, Indore)
           </p>
         </div>
 

@@ -123,7 +123,7 @@ const AdminAppointmentsPage = () => {
             Manage <span className="gold-gradient-text">Appointments</span>
           </h1>
           <p className="text-xs sm:text-sm text-slate-400">
-            Review, approve, reschedule and update booking requests for Nitika Mehra.
+            Review, approve, reschedule and update booking requests for Nitika Mehara.
           </p>
         </div>
       </div>

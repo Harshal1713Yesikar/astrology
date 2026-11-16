@@ -103,7 +103,7 @@ const AdminTestimonialsPage = () => {
             Manage <span className="gold-gradient-text">Testimonials</span>
           </h1>
           <p className="text-xs sm:text-sm text-slate-400">
-            Publish and manage authentic feedback from clients consulted by Nitika Mehra.
+            Publish and manage authentic feedback from clients consulted by Nitika Mehara.
           </p>
         </div>
 

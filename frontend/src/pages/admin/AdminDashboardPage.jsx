@@ -104,7 +104,7 @@ const AdminDashboardPage = () => {
             Overview & Metrics
           </span>
           <h1 className="font-serif text-2xl sm:text-3xl font-bold text-white mt-1">
-            Welcome, <span className="gold-gradient-text">Nitika Mehra</span>
+            Welcome, <span className="gold-gradient-text">Nitika Mehara</span>
           </h1>
           <p className="text-xs sm:text-sm text-slate-400">
             Astronit Astrology & Vastu Consultation Management Dashboard
