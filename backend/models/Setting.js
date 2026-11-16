@@ -36,7 +36,7 @@ const SettingSchema = new mongoose.Schema(
     },
     whatsappNumber: {
       type: String,
-      default: '918959231576',
+      default: '918959235176',
     },
     email: {
       type: String,
