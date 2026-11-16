@@ -26,7 +26,7 @@ const AdminSettingsPage = () => {
     address: '32, New Abhishek Nagar, Musakhedi, Indore, Madhya Pradesh – 452001, India',
     primaryPhone: '8959235176',
     secondaryPhone: '7869608159',
-    whatsappNumber: '918959231576',
+    whatsappNumber: '918959235176',
     email: 'contact@astronit.com',
     consultationTimings: 'Monday to Saturday: 3:00 PM – 8:00 PM (Sunday Closed)',
     whatsappDefaultMessage:
