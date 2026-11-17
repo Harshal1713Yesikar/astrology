@@ -69,7 +69,7 @@ const Navbar = () => {
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-1.5 text-amber-300/90">
               <Sparkles className="w-3.5 h-3.5 text-amber-400" />
-              <span>Consultant: <strong>Nitika Mehra</strong> – Astrologer & Vastu Expert</span>
+              <span>Consultant: <strong>Nitika Mehara</strong> – Astrologer & Vastu Expert</span>
             </span>
             <span className="text-slate-400">|</span>
             <span className="text-slate-400">Musakhedi, Indore, MP</span>
@@ -250,7 +250,7 @@ const Navbar = () => {
               to="/about"
               className="block py-2 text-base font-medium text-slate-200 hover:text-amber-400"
             >
-              About Nitika Mehra
+              About Nitika Mehara
             </Link>
 
             <div className="pt-2 pb-1 border-t border-amber-500/10">

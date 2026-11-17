@@ -41,7 +41,7 @@ const HeroSection = () => {
         <div className="max-w-3xl mx-auto space-y-3 text-slate-300 text-base sm:text-lg md:text-xl font-light leading-relaxed mb-10">
           <p>
             Welcome to <strong>Astronit</strong>, your destination for astrology, Vastu and
-            spiritual guidance led by <strong>Nitika Mehra</strong> in Indore.
+            spiritual guidance led by <strong>Nitika Mehara</strong> in Indore.
           </p>
           <p className="text-slate-400 text-sm sm:text-base">
             We believe that understanding planetary influences, creating harmony in your surroundings

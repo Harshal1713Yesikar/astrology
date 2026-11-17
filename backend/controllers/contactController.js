@@ -25,7 +25,7 @@ exports.submitContact = async (req, res, next) => {
     res.status(201).json({
       success: true,
       message:
-        'Thank you for reaching out to Astronit. Nitika Mehra will review your enquiry and get back to you shortly.',
+        'Thank you for reaching out to Astronit. Nitika Mehara will review your enquiry and get back to you shortly.',
       contact,
     });
   } catch (error) {

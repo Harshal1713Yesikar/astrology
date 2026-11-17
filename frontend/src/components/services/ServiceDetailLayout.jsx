@@ -26,7 +26,7 @@ const ServiceDetailLayout = ({
   consultationMode = 'Online & In-Person at Indore Office',
   slug,
 }) => {
-  const whatsappEnquiryMessage = `Hello Nitika Mehra ji, I would like to enquire about your ${title} consultation at Astronit. Please share details.`;
+  const whatsappEnquiryMessage = `Hello Nitika Mehara ji, I would like to enquire about your ${title} consultation at Astronit. Please share details.`;
 
   return (
     <div className="py-12 sm:py-16">
@@ -146,7 +146,7 @@ const ServiceDetailLayout = ({
                   Schedule Your Session
                 </h3>
                 <p className="text-xs text-slate-300 font-light mt-1">
-                  Private one-on-one consultation with Nitika Mehra
+                  Private one-on-one consultation with Nitika Mehara
                 </p>
               </div>
 

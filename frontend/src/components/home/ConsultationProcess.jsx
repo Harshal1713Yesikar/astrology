@@ -15,7 +15,7 @@ const steps = [
     icon: FileText,
     title: 'Birth Chart Preparation',
     description:
-      'Nitika Mehra thoroughly analyzes your Vedic planetary degrees, Dasha sequences, or Vastu architectural floor plan prior to your session.',
+      'Nitika Mehara thoroughly analyzes your Vedic planetary degrees, Dasha sequences, or Vastu architectural floor plan prior to your session.',
   },
   {
     step: '03',

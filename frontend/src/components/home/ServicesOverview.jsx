@@ -120,7 +120,7 @@ const ServicesOverview = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {servicesData.map((service) => {
             const Icon = service.icon;
-            const whatsappMsg = `Hello Nitika Mehra ji, I would like to enquire about your ${service.title} service. Please share details.`;
+            const whatsappMsg = `Hello Nitika Mehara ji, I would like to enquire about your ${service.title} service. Please share details.`;
 
             return (
               <div

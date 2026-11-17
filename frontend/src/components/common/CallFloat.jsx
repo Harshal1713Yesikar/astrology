@@ -10,7 +10,7 @@ const CallFloat = () => {
       {isOpen && (
         <div className="mb-2 bg-slate-900/95 border border-amber-500/30 rounded-2xl p-3 shadow-2xl backdrop-blur-md flex flex-col gap-2 min-w-[210px] animate-in fade-in slide-in-from-bottom-2 duration-200">
           <div className="text-[11px] text-amber-300 font-semibold uppercase tracking-wider px-1">
-            Call Consultant Nitika Mehra
+            Call Consultant Nitika Mehara
           </div>
           <a
             href={`tel:${BRAND_INFO.phone1}`}

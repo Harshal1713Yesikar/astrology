@@ -16,7 +16,7 @@ const features = [
     icon: UserCheck,
     title: 'Personalised Consultations',
     description:
-      'No generic computer-generated predictions. Every reading is personally conducted by Nitika Mehra with tailored life recommendations.',
+      'No generic computer-generated predictions. Every reading is personally conducted by Nitika Mehara with tailored life recommendations.',
   },
   {
     icon: HeartHandshake,

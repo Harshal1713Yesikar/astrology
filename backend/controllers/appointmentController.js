@@ -52,7 +52,7 @@ exports.createAppointment = async (req, res, next) => {
     res.status(201).json({
       success: true,
       message:
-        'Your appointment request has been submitted successfully! Status is Pending approval by Nitika Mehra.',
+        'Your appointment request has been submitted successfully! Status is Pending approval by Nitika Mehara.',
       appointment: {
         appointmentId: appointment.appointmentId,
         fullName: appointment.fullName,

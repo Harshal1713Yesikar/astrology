@@ -1,7 +1,7 @@
 export const BRAND_INFO = {
   name: 'ASTRONIT',
   tagline: 'Astrology & Spiritual Guidance',
-  consultant: 'Nitika Mehra',
+  consultant: 'Nitika Mehara',
   profession: 'Astrologer and Vastu Expert',
   address: '32, New Abhishek Nagar, Musakhedi, Indore, Madhya Pradesh – 452001, India',
   city: 'Indore',

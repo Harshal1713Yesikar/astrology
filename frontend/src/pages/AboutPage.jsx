@@ -30,7 +30,7 @@ const AboutPage = () => {
           </div>
           <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight leading-tight">
             Meet Your Consultant –{' '}
-            <span className="gold-gradient-text">Nitika Mehra</span>
+            <span className="gold-gradient-text">Nitika Mehara</span>
           </h1>
           <p className="text-slate-300 text-base sm:text-lg font-light leading-relaxed">
             Astrologer and Vastu Expert bringing clarity, spatial harmony, and grounded spiritual solutions from Indore, Madhya Pradesh.
@@ -55,7 +55,7 @@ const AboutPage = () => {
 
                   <div className="absolute bottom-4 left-4 right-4 p-4 rounded-xl bg-slate-900/90 border border-amber-500/30 backdrop-blur-md">
                     <h3 className="font-serif text-lg font-bold text-white flex items-center gap-2">
-                      <span>Nitika Mehra</span>
+                      <span>Nitika Mehara</span>
                       <Award className="w-4 h-4 text-amber-400" />
                     </h3>
                     <p className="text-xs text-amber-300 font-medium">Astrologer & Vastu Expert</p>
@@ -93,7 +93,7 @@ const AboutPage = () => {
               </h2>
 
               <p className="text-slate-200 text-base sm:text-lg font-light leading-relaxed italic border-l-2 border-amber-400 pl-4 bg-amber-500/5 py-2 rounded-r-xl">
-                "Nitika Mehra is an Astrology and Vastu Consultant dedicated to providing personalised
+                "Nitika Mehara is an Astrology and Vastu Consultant dedicated to providing personalised
                 guidance through astrology, numerology, Vastu principles and spiritual practices."
               </p>
 
@@ -105,7 +105,7 @@ const AboutPage = () => {
 
               <p className="text-slate-300 text-sm sm:text-base font-light leading-relaxed">
                 With years of intensive study in Vedic Jyotish, Prashna Kundali, Chaldean Numerology,
-                and architectural Vastu Shastra, Nitika Mehra has assisted countless families, entrepreneurs,
+                and architectural Vastu Shastra, Nitika Mehara has assisted countless families, entrepreneurs,
                 working professionals, and students across Indore, Madhya Pradesh, and globally.
               </p>
             </div>

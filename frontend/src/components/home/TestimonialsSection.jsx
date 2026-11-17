@@ -9,7 +9,7 @@ const fallbackTestimonials = [
     location: 'Indore, MP',
     serviceTaken: 'Kundali & Business Guidance',
     review:
-      'Nitika Mehra ji gave me tremendous clarity when my manufacturing business was facing severe payment delays. Her Mahadasha insights and simple non-expensive remedies created positive shifts within 3 months. Highly recommended in Indore!',
+      'Nitika Mehara ji gave me tremendous clarity when my manufacturing business was facing severe payment delays. Her Mahadasha insights and simple non-expensive remedies created positive shifts within 3 months. Highly recommended in Indore!',
     rating: 5,
   },
   {
@@ -61,7 +61,7 @@ const TestimonialsSection = () => {
         <SectionHeading
           badge="Genuine Client Experiences"
           title="Voices of Trust & Transformation"
-          subtitle="All testimonials represent authentic experiences from clients guided personally by Nitika Mehra."
+          subtitle="All testimonials represent authentic experiences from clients guided personally by Nitika Mehara."
         />
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

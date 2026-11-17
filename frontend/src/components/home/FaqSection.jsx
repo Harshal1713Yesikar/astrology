@@ -13,12 +13,12 @@ const defaultFaqs = [
   {
     question: 'Do you provide online consultations?',
     answer:
-      'Yes, Astronit offers comprehensive online consultations via WhatsApp video or audio call, as well as Zoom. Clients across India and internationally can consult Nitika Mehra from the comfort of their home. Contact us to enquire about online consultation availability.',
+      'Yes, Astronit offers comprehensive online consultations via WhatsApp video or audio call, as well as Zoom. Clients across India and internationally can consult Nitika Mehara from the comfort of their home. Contact us to enquire about online consultation availability.',
   },
   {
     question: 'Can I get Vastu guidance for my existing home?',
     answer:
-      'Yes, you can enquire about residential and commercial Vastu consultation. Nitika Mehra evaluates floor plans and on-site energy flows, recommending effective non-demolition remedies, color harmonizers, and elemental corrections without breaking walls.',
+      'Yes, you can enquire about residential and commercial Vastu consultation. Nitika Mehara evaluates floor plans and on-site energy flows, recommending effective non-demolition remedies, color harmonizers, and elemental corrections without breaking walls.',
   },
   {
     question: 'How can I book an appointment?',
@@ -112,7 +112,7 @@ const FaqSection = () => {
         <div className="mt-12 p-6 rounded-3xl glass-panel border border-amber-500/20 text-center flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="text-left">
             <h4 className="font-serif text-base font-bold text-white">Have a specific question not listed here?</h4>
-            <p className="text-xs text-slate-400 mt-1">Talk directly with Nitika Mehra or our support team.</p>
+            <p className="text-xs text-slate-400 mt-1">Talk directly with Nitika Mehara or our support team.</p>
           </div>
           <div className="flex items-center gap-3">
             <a

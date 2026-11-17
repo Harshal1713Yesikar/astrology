@@ -45,7 +45,7 @@ const initialServices = [
     shortDescription:
       'Detailed birth chart analysis, planetary transit influences, and personalized astrological guidance for life decisions.',
     fullDescription:
-      'Understand how planetary influences shape your life journey. Nitika Mehra performs deep Vedic Kundali analysis to evaluate planetary positions, Mahadasha, Antardasha, and divisional charts. Receive tailored, practical remedies for career progression, business ventures, marriage compatibility, and personal peace.',
+      'Understand how planetary influences shape your life journey. Nitika Mehara performs deep Vedic Kundali analysis to evaluate planetary positions, Mahadasha, Antardasha, and divisional charts. Receive tailored, practical remedies for career progression, business ventures, marriage compatibility, and personal peace.',
     iconName: 'Sun',
     imageUrl: 'https://images.unsplash.com/photo-1532968961962-8a0cb3a2d4f5?auto=format&fit=crop&w=800&q=80',
     keyOfferings: [
@@ -73,7 +73,7 @@ const initialServices = [
     shortDescription:
       'Harmonize your living and workspaces with authentic Vastu Shastra principles for prosperity, peace, and positive energy.',
     fullDescription:
-      'Your physical environment directly impacts your mental clarity, financial stability, and family well-being. Nitika Mehra provides holistic residential and commercial Vastu evaluations, identifying energy blockages and offering practical non-demolition remedies.',
+      'Your physical environment directly impacts your mental clarity, financial stability, and family well-being. Nitika Mehara provides holistic residential and commercial Vastu evaluations, identifying energy blockages and offering practical non-demolition remedies.',
     iconName: 'Compass',
     imageUrl: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80',
     keyOfferings: [
@@ -126,7 +126,7 @@ const initialServices = [
     shortDescription:
       'Prescriptive gemstone recommendations based on rigorous Kundali planetary strength analysis and traditional Vedic shastras.',
     fullDescription:
-      'Gemstones act as cosmic filters, capturing and amplifying specific planetary radiations to enhance your vitality, intellect, and fortune. Nitika Mehra assesses which planets in your horoscope need strengthening and recommends authentic natural gems.',
+      'Gemstones act as cosmic filters, capturing and amplifying specific planetary radiations to enhance your vitality, intellect, and fortune. Nitika Mehara assesses which planets in your horoscope need strengthening and recommends authentic natural gems.',
     iconName: 'Gem',
     imageUrl: 'https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80',
     keyOfferings: [
@@ -205,7 +205,7 @@ const initialTestimonials = [
     location: 'Indore, MP',
     serviceTaken: 'Kundali & Business Guidance',
     review:
-      'Nitika Mehra ji gave me tremendous clarity when my manufacturing business was facing severe payment delays. Her Mahadasha insights and simple non-expensive remedies created positive shifts within 3 months. Highly recommended in Indore!',
+      'Nitika Mehara ji gave me tremendous clarity when my manufacturing business was facing severe payment delays. Her Mahadasha insights and simple non-expensive remedies created positive shifts within 3 months. Highly recommended in Indore!',
     rating: 5,
     isFeatured: true,
     order: 1,
@@ -260,7 +260,7 @@ const initialFaqs = [
   {
     question: 'Can I get Vastu guidance for my existing home without demolition?',
     answer:
-      'Yes, you can enquire about residential and commercial Vastu consultation. Nitika Mehra specializes in non-demolition Vastu remedies, element balancing (Pancha Mahabhuta), color therapies, and energy harmonizing crystals.',
+      'Yes, you can enquire about residential and commercial Vastu consultation. Nitika Mehara specializes in non-demolition Vastu remedies, element balancing (Pancha Mahabhuta), color therapies, and energy harmonizing crystals.',
     category: 'Vastu',
     order: 3,
   },
@@ -281,7 +281,7 @@ const initialFaqs = [
   {
     question: 'Are remedies compulsory or expensive?',
     answer:
-      'Not at all. Nitika Mehra emphasizes simple, traditional, and practical lifestyle adjustments, meditation, mantras, and natural spiritual practices. Remedies are suggested only as per individual requirement and comfort.',
+      'Not at all. Nitika Mehara emphasizes simple, traditional, and practical lifestyle adjustments, meditation, mantras, and natural spiritual practices. Remedies are suggested only as per individual requirement and comfort.',
     category: 'Remedies',
     order: 6,
   },

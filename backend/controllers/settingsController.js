@@ -11,7 +11,7 @@ exports.getSettings = async (req, res, next) => {
       settings = await Setting.create({
         brandName: 'ASTRONIT',
         tagline: 'Astrology & Spiritual Guidance',
-        consultantName: 'Nitika Mehra',
+        consultantName: 'Nitika Mehara',
         profession: 'Astrologer and Vastu Expert',
         address: '32, New Abhishek Nagar, Musakhedi, Indore, Madhya Pradesh – 452001, India',
         city: 'Indore',

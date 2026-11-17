@@ -36,7 +36,7 @@ const AboutPreview = () => {
                   {/* Consultant Badge Overlay */}
                   <div className="absolute bottom-4 left-4 right-4 p-4 rounded-xl bg-slate-900/90 border border-amber-500/30 backdrop-blur-md">
                     <h3 className="font-serif text-lg font-bold text-white flex items-center gap-2">
-                      <span>Nitika Mehra</span>
+                      <span>Nitika Mehara</span>
                       <Award className="w-4 h-4 text-amber-400" />
                     </h3>
                     <p className="text-xs text-amber-300 font-medium">Astrologer & Vastu Expert</p>
@@ -77,12 +77,12 @@ const AboutPreview = () => {
 
             <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-white leading-tight">
               Meet Your Consultant –{' '}
-              <span className="gold-gradient-text">Nitika Mehra</span>
+              <span className="gold-gradient-text">Nitika Mehara</span>
             </h2>
 
             <div className="space-y-4 text-slate-300 text-base sm:text-lg font-light leading-relaxed">
               <p className="border-l-2 border-amber-500/60 pl-4 italic text-amber-100/90 font-serif text-lg">
-                "Nitika Mehra is an Astrology and Vastu Consultant dedicated to providing personalised
+                "Nitika Mehara is an Astrology and Vastu Consultant dedicated to providing personalised
                 guidance through astrology, numerology, Vastu principles and spiritual practices."
               </p>
 

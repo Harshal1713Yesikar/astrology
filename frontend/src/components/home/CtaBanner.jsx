@@ -25,7 +25,7 @@ const CtaBanner = () => {
 
             <p className="text-slate-300 text-sm sm:text-base md:text-lg font-light leading-relaxed">
               Step into clarity today. Schedule a private consultation with{' '}
-              <strong>Nitika Mehra</strong> and discover traditional Vedic solutions tailored for
+              <strong>Nitika Mehara</strong> and discover traditional Vedic solutions tailored for
               your personal and professional success.
             </p>
 

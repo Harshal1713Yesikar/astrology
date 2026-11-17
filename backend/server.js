@@ -92,7 +92,7 @@ const startServer = async () => {
       console.log(`=======================================================`);
       console.log(`🌟 ASTRONIT - Astrology & Spiritual Guidance Server 🌟`);
       console.log(`🚀 Server running on port ${PORT}`);
-      console.log(`📍 Consultant: Nitika Mehra (Musakhedi, Indore)`);
+      console.log(`📍 Consultant: Nitika Mehara (Musakhedi, Indore)`);
       console.log(`🔗 API Base: http://localhost:${PORT}/api`);
       console.log(`=======================================================`);
     });

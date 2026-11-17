@@ -92,7 +92,7 @@ const BookingForm = () => {
   const currentFullName = watch('fullName');
   const currentService = watch('service');
   const currentType = watch('consultationType');
-  const whatsappBookingText = `Hello Nitika Mehra ji, I would like to book an ${currentType || 'Online'} appointment for ${currentService || 'Astrology Consultation'}. Name: ${currentFullName || 'Client'}. Please share the earliest available slot.`;
+  const whatsappBookingText = `Hello Nitika Mehara ji, I would like to book an ${currentType || 'Online'} appointment for ${currentService || 'Astrology Consultation'}. Name: ${currentFullName || 'Client'}. Please share the earliest available slot.`;
 
   return (
     <div className="relative">
@@ -110,7 +110,7 @@ const BookingForm = () => {
               Thank You, {submissionSuccess.fullName}!
             </h3>
             <p className="text-slate-300 text-sm sm:text-base max-w-lg mx-auto font-light">
-              Your appointment request has been submitted to <strong>Nitika Mehra</strong>.
+              Your appointment request has been submitted to <strong>Nitika Mehara</strong>.
             </p>
           </div>
 
@@ -137,7 +137,7 @@ const BookingForm = () => {
 
           <div className="p-4 rounded-xl bg-purple-950/40 border border-purple-500/30 text-xs text-slate-300 max-w-md mx-auto leading-relaxed">
             <span className="font-semibold text-amber-300 block mb-1">Notice:</span>
-            Appointments are not confirmed automatically. Nitika Mehra reviews each slot to ensure
+            Appointments are not confirmed automatically. Nitika Mehara reviews each slot to ensure
             adequate time for Kundali analysis. You will receive confirmation via phone/WhatsApp
             within consultation hours (Mon–Sat, 3:00 PM – 8:00 PM).
           </div>
@@ -145,7 +145,7 @@ const BookingForm = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-2">
             <a
               href={getWhatsAppLink(
-                `Hello Nitika Mehra ji, I have booked appointment ${submissionSuccess.appointmentId} for ${submissionSuccess.service}. Please confirm my slot.`
+                `Hello Nitika Mehara ji, I have booked appointment ${submissionSuccess.appointmentId} for ${submissionSuccess.service}. Please confirm my slot.`
               )}
               target="_blank"
               rel="noopener noreferrer"
@@ -402,7 +402,7 @@ const BookingForm = () => {
           {/* Pending Approval notice */}
           <div className="text-xs text-slate-400 bg-slate-900/60 p-3 rounded-xl border border-slate-800">
             ℹ️ <strong>Status Notice:</strong> Submitted appointments are placed in{' '}
-            <span className="text-amber-400 font-semibold">Pending Approval</span> until confirmed by Nitika Mehra to ensure schedule synchronization.
+            <span className="text-amber-400 font-semibold">Pending Approval</span> until confirmed by Nitika Mehara to ensure schedule synchronization.
           </div>
 
           {/* Submit Actions */}

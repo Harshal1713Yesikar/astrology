@@ -9,7 +9,7 @@
 
 - **Brand Name**: ASTRONIT
 - **Tagline**: Astrology & Spiritual Guidance
-- **Consultant**: Nitika Mehra
+- **Consultant**: Nitika Mehara
 - **Profession**: Astrologer and Vastu Expert
 - **Address**: 32, New Abhishek Nagar, Musakhedi, Indore, Madhya Pradesh – 452001, India
 - **Contact Numbers**:
@@ -50,7 +50,7 @@
 
 ### 2. Website Pages (13 Public Pages + Admin Suite)
 1. **Home (`/`)**: Hero section, consultant preview, services overview, why choose us, consultation process, genuine client testimonials, FAQs, and high-impact CTA banner.
-2. **About Us (`/about`)**: Meet Nitika Mehra, philosophy, credentials, mission, vision, and personal consultation approach.
+2. **About Us (`/about`)**: Meet Nitika Mehara, philosophy, credentials, mission, vision, and personal consultation approach.
 3. **Services Catalog (`/services`)**: Comprehensive overview of all 6 specialized consultations with direct booking and WhatsApp enquiry buttons.
 4. **Astrology Consultation (`/services/astrology-consultation`)**: Birth Chart (Kundali) analysis, planetary transits, career, marriage, business, Mahadasha/Antardasha, and personalised remedies.
 5. **Vastu Consultation (`/services/vastu-consultation`)**: Residential & commercial Vastu, direction analysis, element balancing, and non-demolition corrections.
@@ -66,7 +66,7 @@
 ### 3. Consultation Booking Engine
 - Generates unique appointment ID (`AST-YYYYMM-XXXX`).
 - Validates 10-digit mobile numbers and email addresses.
-- Places bookings into **Pending Approval** status so Nitika Mehra can review slots before confirming.
+- Places bookings into **Pending Approval** status so Nitika Mehara can review slots before confirming.
 - Pre-filled WhatsApp booking link dynamically constructed from user input.
 
 ### 4. Direct WhatsApp & Call Integration
@@ -148,7 +148,7 @@
 Astrology Website/
 ├── client/                      # Frontend Vite + React application
 │   ├── public/
-│   │   ├── favicon.svg          # Celestial golden icon
+│   │   ├── svg          # Celestial golden icon
 │   │   ├── robots.txt           # Search engine crawlers config
 │   │   └── sitemap.xml          # Search engine XML sitemap
 │   ├── src/

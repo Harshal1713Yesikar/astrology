@@ -40,7 +40,7 @@ const Footer = () => {
             </Link>
 
             <p className="text-sm text-slate-400 font-light leading-relaxed">
-              Led by <strong>Nitika Mehra</strong>, Astrologer & Vastu Expert. Dedicated to
+              Led by <strong>Nitika Mehara</strong>, Astrologer & Vastu Expert. Dedicated to
               bringing authentic Vedic wisdom, spatial harmony, and positive energy alignment to
               individuals and businesses.
             </p>
@@ -53,7 +53,7 @@ const Footer = () => {
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-emerald-500/40 bg-emerald-500/10 text-emerald-400 hover:bg-emerald-500/20 text-xs font-semibold transition-all hover:scale-105"
               >
                 <MessageCircle className="w-4 h-4" />
-                <span>WhatsApp Nitika Mehra</span>
+                <span>WhatsApp Nitika Mehara</span>
               </a>
             </div>
           </div>
@@ -93,7 +93,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link to="/about" className="text-slate-400 hover:text-amber-300 transition-colors">
-                  Meet Nitika Mehra
+                  Meet Nitika Mehara
                 </Link>
               </li>
               <li>
@@ -192,7 +192,7 @@ const Footer = () => {
         {/* Bottom copyright and admin login link */}
         <div className="mt-8 pt-6 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-400 gap-4">
           <p>
-            © {currentYear} <strong>ASTRONIT</strong>. All rights reserved. Consultant Nitika Mehra, Indore.
+            © {currentYear} <strong>ASTRONIT</strong>. All rights reserved. Consultant Nitika Mehara, Indore.
           </p>
           <div className="flex items-center gap-4">
             <Link to="/privacy-policy" className="hover:text-amber-300 transition-colors">

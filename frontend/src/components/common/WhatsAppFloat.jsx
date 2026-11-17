@@ -10,7 +10,7 @@ const WhatsAppFloat = () => {
       {/* Tooltip bubble */}
       {showTooltip && (
         <div className="relative hidden sm:flex items-center gap-2 bg-slate-900/95 border border-amber-500/30 text-white text-xs py-2 px-3.5 rounded-2xl shadow-xl backdrop-blur-md animate-bounce duration-1000 max-w-xs">
-          <span>Need guidance? Chat with Nitika Mehra on WhatsApp</span>
+          <span>Need guidance? Chat with Nitika Mehara on WhatsApp</span>
           <button
             onClick={() => setShowTooltip(false)}
             aria-label="Close tooltip"
