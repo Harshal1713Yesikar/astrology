@@ -106,10 +106,7 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           {/* Brand Logo */}
           <Link to="/" className="flex items-center gap-3 group">
-            <div className="relative w-10 h-10 sm:w-11 sm:h-11 rounded-full bg-gradient-to-br from-purple-900 to-slate-900 border border-amber-400/50 flex items-center justify-center shadow-gold-glow group-hover:scale-105 transition-transform duration-300">
-              <Sparkles className="w-5 h-5 text-amber-400 group-hover:rotate-12 transition-transform duration-300" />
-              <div className="absolute inset-0 rounded-full border border-amber-300/30 animate-pulse-subtle" />
-            </div>
+            <img className='h-12 w-12 rounded-full ' src="/images/logo.jpg" alt="" />
             <div>
               <span className="block font-serif text-xl sm:text-2xl font-black tracking-wider text-white">
                 ASTRO<span className="gold-gradient-text">NIT</span>
